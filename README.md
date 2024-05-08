@@ -1,6 +1,6 @@
 # AgePropertyEncryptor
 
-**Encrypt-Decrypt Properties Script**
+**Encrypt-Decrypt Properties Script**:
 This script provides a way to encrypt and decrypt `.properties` files using the Age encryption tool. It ensures secure handling of sensitive files with minimal manual intervention and integrates seamlessly into various workflows.
 
 ## Prerequisites
