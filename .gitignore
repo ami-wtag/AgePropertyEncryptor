@@ -1,2 +1,4 @@
 key.txt
 *.properties
+*.properties.age
+*.age
