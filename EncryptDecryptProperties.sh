@@ -42,6 +42,7 @@ function decrypt_files() {
             echo "Error: Decryption failed for $file. Please verify the key and try again."
             exit 1
         fi
+        rm "$file"
     done
     echo "Decryption completed successfully."
 }
